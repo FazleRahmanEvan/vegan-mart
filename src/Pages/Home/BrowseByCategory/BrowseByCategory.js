@@ -21,7 +21,7 @@ const BrowseByCategory = () => {
         onClick={onClick}
       />
     );
-  }
+  } 
 
   function SampleNextArrow(props) {
     const { className, style, onClick } = props;
@@ -177,13 +177,13 @@ const BrowseByCategory = () => {
           </div>
         </Slider> */}
       {/* </div>  */}
-      <div className="text-start">
+      <div className="lg:text-start sm:text-center">
         <h2 className="text-xl font-medium text-secondary">Categories</h2>
         <h1 className="text-2xl font-bold">Browse By Category</h1>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-2 mt-14 lg:ml-32">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-14 lg:ml-32 sm:ml-5">
         <Link to="/drinks">
-        <div className="flex w-96 bg-base-100 rounded-lg shadow-xl">
+        <div className="flex lg:w-96 sm:w-60 bg-base-100 rounded-lg shadow-xl">
           <figure>
             <img className="rounded-l-lg"
               src="https://i.ibb.co/7J8VNVH/Category-Phone-1.png"
@@ -197,7 +197,7 @@ const BrowseByCategory = () => {
         </div>
         </Link>
         <Link to="/confectionary">
-        <div className=" flex w-96 bg-base-100 rounded-lg shadow-xl">
+        <div className=" flex lg:w-96 sm:w-60 bg-base-100 rounded-lg shadow-xl">
           <figure>
             <img className="rounded-l-lg"
               src="https://i.ibb.co/2sRtshW/Category-Snack.png"

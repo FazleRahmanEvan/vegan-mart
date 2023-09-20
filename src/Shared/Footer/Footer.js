@@ -9,7 +9,7 @@ const Footer = () => {
         <footer class="footer bg-secondary text-white justify-evenly">
     
         <div className='mt-12 mb-24'>
-            <img className='w-40 h-44' src="https://i.ibb.co/dDHV2Nc/Group.png" alt=''/>
+            <img className='w-44 h-44' src="https://i.ibb.co/dDHV2Nc/Group.png" alt=''/>
             
        
             <div className="footer-start grid grid-flow-col gap-4 mt-2">

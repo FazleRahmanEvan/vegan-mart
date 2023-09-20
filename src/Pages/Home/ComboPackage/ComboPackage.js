@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const ComboPackage = () => {
     return (
-        <div className="bg-primary">
+        <div className="bg-primary ">
         <div className="flex justify-between ">
           <div>
             <h2 className="text-2xl font-bold lg:ml-24 mt-16">Combo Packages</h2>
@@ -14,9 +14,9 @@ const ComboPackage = () => {
           </div>
         </div>
   
-        <div className="mt-14  lg:px-20 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3">
+        <div className="mt-14 mb-10  grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4 pb-10 lg:px-9 ml-10">
   
-          <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+          <div className="card w-80 bg-base-100 shadow-xl sm:mb-10 lg:mb-20">
             <Link to="/combo"> <img src="https://i.ibb.co/Wy9s4hV/41.png" alt="" /></Link>
            
             <div className="mt-4 card-body ">
@@ -31,7 +31,7 @@ const ComboPackage = () => {
              </div>
             </div>
           </div>
-          <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+          <div className="card w-80 bg-base-100 shadow-xl sm:mb-10 lg:mb-20">
           <Link to="/combo"><img src="https://i.ibb.co/C8zYQPW/42.png" alt="" /></Link>
             
             <div className="mt-4 card-body ">
@@ -46,7 +46,7 @@ const ComboPackage = () => {
              </div>
             </div>
           </div>
-          <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+          <div className="card w-80 bg-base-100 shadow-xl sm:mb-10 lg:mb-20">
           <Link to="/combo"><img src="https://i.ibb.co/1qGTfVF/43.png" alt="" /></Link>
             
             <div className="mt-4 card-body ">
@@ -61,7 +61,7 @@ const ComboPackage = () => {
              </div>
             </div>
           </div>
-          <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+          <div className="card w-80 bg-base-100 shadow-xl sm:mb-10 lg:mb-20">
           <Link to="/combo"><img src="https://i.ibb.co/kJn7g4H/44.png" alt="" /></Link>
             
             <div className="mt-4 card-body ">

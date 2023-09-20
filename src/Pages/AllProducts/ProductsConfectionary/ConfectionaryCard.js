@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const ConfectionaryCard = () => {
     return (
         <div>
-                      <div className="mt-14  lg:px-16 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3">
+     <div className="mt-14 pb-10 lg:px-9 ml-10 gap-5 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4">
 
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
   <Link to="/productDetails"><img className='w-80' src="https://i.ibb.co/Fg9bcbv/21.png" alt="" /></Link>

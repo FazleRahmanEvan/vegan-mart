@@ -15,8 +15,8 @@ const BestSellingProduct = () => {
         </div>
       </div>
 
-      <div className="mt-14  lg:px-20 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3">
-
+      <div className="mt-14 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4 pb-10 lg:px-9 ml-10">
+     
         <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
           <Link to="/confectionary"><img className="w-80" src="https://i.ibb.co/D1H92vz/Cart.png" alt="" /></Link>
           
@@ -62,7 +62,7 @@ Peanuts (per pcs)</h2>
            </div>
           </div>
         </div>
-        <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+        <div className="card w-80 bg-base-100 shadow-xl  lg:mb-20">
         <Link to="/drinks"><img className="w-80" src="https://i.ibb.co/CP91qwR/Cart-3.png" alt="" /></Link>
           <div className="mt-4 card-body ">
             <h2 className="card-title ml-8 font-bold">Barebells Milkshakes </h2>
