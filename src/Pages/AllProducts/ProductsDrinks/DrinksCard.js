@@ -143,8 +143,8 @@ const DrinksCard = () => {
 <Link to="/productDetails"><img className='w-80' src="https://i.ibb.co/rZXH43S/9.png" alt="" /></Link>
   
   <div className="mt-4 card-body ">
-    <h2 className="card-title ml-8 font-bold">Mango Lacchi</h2>
-    <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">$260</span> <span className="text-xl text-gray-500 font-medium line-through ml-8">$300</span> </p>
+    <h2 className="card-title ml-8 font-bold">£2.99</h2>
+  
    <div className="flex ml-7 mt-4">
     <BsStarFill className="text-yellow-400"></BsStarFill>
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>

@@ -5,7 +5,7 @@ import Service from '../Home/Service/Service';
 const Combo = () => {
     return (
         <div>
-             <div className="mt-14  lg:px-20 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3">
+             <div className="mt-14 pb-10 lg:px-9 ml-10 gap-5 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3">
   
   <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
     <img src="https://i.ibb.co/Wy9s4hV/41.png" alt="" />
