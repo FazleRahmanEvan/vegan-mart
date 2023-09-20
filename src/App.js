@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+
+import {  Route, Routes } from 'react-router-dom';
 import './App.css';
+import Navbar from './Shared/Navbar/Navbar';
+import Home from './Pages/Home/Home/Home';
+import Footer from './Shared/Footer/Footer';
+import Drinks from './Pages/AllProducts/ProductsDrinks/Drinks';
+import Confectionary from './Pages/AllProducts/ProductsConfectionary/Confectionary';
+import Combo from './Pages/ComboProduct/Combo';
+import ProductDetails from './Pages/AllProducts/ProductDetails/ProductDetails';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Navbar></Navbar>
+     <Routes>
+     <Route path="/" element ={<Home></Home>}></Route>
+     <Route path="/drinks" element ={<Drinks></Drinks>}></Route>
+     <Route path="/confectionary" element ={<Confectionary></Confectionary>}></Route>
+     <Route path="/combo" element ={<Combo></Combo>}></Route>
+     <Route path="/productDetails" element ={<ProductDetails></ProductDetails>}></Route>
+     </Routes>
+     <Footer></Footer>
     </div>
   );
 }
