@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { FaMobileScreenButton } from "react-icons/fa6";
 import { Link } from "react-router-dom";
+import "./BrowswCategoryz.css"
 
 const BrowseByCategory = () => {
   const responsive = [
@@ -182,34 +183,24 @@ const BrowseByCategory = () => {
         <h1 className="text-2xl font-bold">Browse By Category</h1>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-14 lg:ml-32 sm:ml-5">
-        <Link to="/drinks">
-        <div className="flex lg:w-96 sm:w-60 bg-base-100 rounded-lg shadow-xl">
-          <figure>
-            <img className="rounded-l-lg"
-              src="https://i.ibb.co/7J8VNVH/Category-Phone-1.png"
-              alt="Album"
-            />
-          </figure>
-          <div className="text-center font-medium text-xl ml-6 mr-3 mt-20">
-            <h2 >Drinks</h2>
-           
-          </div>
+       
+        <div className="categoryWidth sm:w-60 relative  rounded-lg shadow-xl">
+          
+          <img className="h-52 " src="https://i.ibb.co/rH1brP8/Frame-5063-2.png" alt="" />
+          <Link to="/drinks"> <button className="absolute top-24 right-36 bg-secondary w-44 h-16 text-white text-2xl font-medium rounded-full ">Drinks</button></Link>
+         
+         
         </div>
-        </Link>
-        <Link to="/confectionary">
-        <div className=" flex lg:w-96 sm:w-60 bg-base-100 rounded-lg shadow-xl">
-          <figure>
-            <img className="rounded-l-lg"
-              src="https://i.ibb.co/2sRtshW/Category-Snack.png"
-              alt="Album"
-            />
-          </figure>
-          <div className="text-center font-medium text-xl ml-6 mr-3 mt-20">
-            <h2 className=" ">Confectionary</h2>
-            
-          </div>
+        <div className="categoryWidth sm:w-60 relative  rounded-lg shadow-xl">
+          
+          <img className="h-52 " src="https://i.ibb.co/88n97xM/Frame-5062-1.png" alt="" />
+          <Link to="/confectionary"> <button className="absolute top-24 right-36 bg-secondary w-44 h-16 text-white text-2xl font-medium p-2 rounded-full ">Confectionary</button></Link>
+         
+         
         </div>
-        </Link>
+     
+     
+        
       
       </div>
     </div>

@@ -20,7 +20,7 @@ const DrinksCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Sanpellegrino Drinks (6 pack box)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Sanpellegrino Drinks (6 pack x 330ml box)</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -51,7 +51,7 @@ const DrinksCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Barebells Milkshakes </span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Barebells Milkshakes (4 Cans x 330ml)</span> </p>
   </div>
 </div>
 
@@ -119,7 +119,7 @@ const DrinksCard = () => {
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Dash Sparkling Water (per box)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Dash Sparkling Water (6 pack x 330ml box)</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">

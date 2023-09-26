@@ -20,7 +20,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Royal Gulabjam (6 pcs)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Royal Gulabjam </span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -51,7 +51,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Fudco Himalayan Pink Salt (500 g) </span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Fudco Himalayan Pink Salt </span> </p>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Eat Real Chips (per pack)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Eat Real Crisps </span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -85,7 +85,7 @@ const ConfectionaryCard = () => {
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Pran Puffed Rice (250 g)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Pran Puffed Rice</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -119,7 +119,7 @@ const ConfectionaryCard = () => {
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Royal Rassomalai (500 g)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Royal Rassomalai </span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -152,7 +152,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Metcalfe's - Chocolate Rice Cakes (per box)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Metcalfe's - Chocolate Rice Cakes (8 piece x 34 g)</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -168,7 +168,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Cofresh Sev Mamra With Peanuts (per pcs)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Cofresh Sev Mamra With Peanuts</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -184,7 +184,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">TREK Power High Protein Energy Bar</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">TREK Energy Bar (12 piece x 50 g)</span> </p>
   </div>
 </div>
 <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
@@ -200,7 +200,7 @@ const ConfectionaryCard = () => {
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
    </div>
-   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Fudco Soya Chunks 150g (per packet)</span> </p>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Fudco Soya Chunks </span> </p>
   </div>
 </div>
 
