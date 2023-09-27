@@ -1,5 +1,6 @@
 import React from 'react';
 import { BsStarFill,BsStarHalf } from "react-icons/bs";
+import Service from '../../Home/Service/Service';
 
 
 const ProductDetails = () => {
@@ -37,6 +38,8 @@ const ProductDetails = () => {
     </div>
   </div>
 </div>
+
+<Service></Service>
         </div>
     );
 };
