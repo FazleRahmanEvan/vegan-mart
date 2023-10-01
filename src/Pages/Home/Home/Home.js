@@ -13,7 +13,7 @@ const Home = () => {
             <BrowseByCategory></BrowseByCategory>
             <BestSellingProduct></BestSellingProduct>
             <SubscribeNews></SubscribeNews>
-            <ComboPackage></ComboPackage>
+            
             <Service></Service>
         </div>
     );

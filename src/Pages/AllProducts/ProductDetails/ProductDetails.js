@@ -1,6 +1,7 @@
 import React from 'react';
 import { BsStarFill,BsStarHalf } from "react-icons/bs";
 import Service from '../../Home/Service/Service';
+import { ImWhatsapp } from "react-icons/im";
 
 
 const ProductDetails = () => {
@@ -29,8 +30,18 @@ const ProductDetails = () => {
       {/* if there is a button in form, it will close the modal */}
       <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
     </form>
-    <h3 className="font-bold text-lg">Please Confirm Your Orders With This Number</h3>
-    <p className="py-4 text-6xl">+44 7541 990478</p>
+    <p className="py-4 text-xl text-center font-medium">1.Standard delivery 3-5 days cost £3.99</p>
+    <p className="py-4 text-xl text-center font-medium">2.Express shipping on next day £4.99</p>
+    <p className="py-4 text-xl text-center font-medium">3.Over £25.00 delivery free</p>
+    <h3 className="font-bold text-lg text-center">Please Confirm Your Orders By Contacting With Us:</h3>
+    <div className='text-center mt-6'>
+   <a href="https://wa.me/07538820944"><button className="btn btn-accent text-2xl btn-wide"><ImWhatsapp className=''/>Order Now</button></a>
+
+    </div>
+   
+    
+
+
   </div>
 </dialog>
       </div>

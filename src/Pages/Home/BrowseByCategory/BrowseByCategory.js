@@ -182,19 +182,26 @@ const BrowseByCategory = () => {
         <h2 className="text-xl font-medium text-secondary">Categories</h2>
         <h1 className="text-2xl font-bold">Browse By Category</h1>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-14 lg:ml-32 sm:ml-5">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mt-14 lg:ml- sm:ml-5">
        
         <div className="categoryWidth sm:w-60 relative  rounded-lg shadow-xl">
           
           <img className="h-52 " src="https://i.ibb.co/rH1brP8/Frame-5063-2.png" alt="" />
-          <Link to="/drinks"> <button className="absolute top-24 right-36 bg-secondary w-44 h-16 text-white text-2xl font-medium rounded-full ">Drinks</button></Link>
+          <Link to="/drinks"> <button className="absolute top-24 right-36 bg-secondary w-36 h-16 text-white text-xl font-medium rounded-full ">Drinks</button></Link>
          
          
         </div>
         <div className="categoryWidth sm:w-60 relative  rounded-lg shadow-xl">
           
           <img className="h-52 " src="https://i.ibb.co/88n97xM/Frame-5062-1.png" alt="" />
-          <Link to="/confectionary"> <button className="absolute top-24 right-36 bg-secondary w-44 h-16 text-white text-2xl font-medium p-2 rounded-full ">Confectionary</button></Link>
+          <Link to="/confectionary"> <button className="absolute top-24 right-36 bg-secondary w-40 h-16 text-white text-xl font-medium p-2 rounded-full ">Confectionary</button></Link>
+         
+         
+        </div>
+        <div className="categoryWidth sm:w-60 relative  rounded-lg shadow-xl">
+          
+          <img className="h-52 " src="https://i.ibb.co/MCXpzrN/combo-1.png" alt="" />
+          <Link to="/combo"> <button className="absolute top-24 right-36 bg-secondary w-36 h-16 text-white text-xl font-medium p-2 rounded-full ">Combo</button></Link>
          
          
         </div>
