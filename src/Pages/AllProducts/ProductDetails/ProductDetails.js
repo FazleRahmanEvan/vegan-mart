@@ -31,10 +31,13 @@ const ProductDetails = () => {
       <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
     </form>
     <p className="py-4 text-xl text-center font-medium">1.Standard delivery 3-5 days cost £3.99</p>
-    <p className="py-4 text-xl text-center font-medium">2.Express shipping on next day £4.99</p>
-    <p className="py-4 text-xl text-center font-medium">3.Over £25.00 delivery free</p>
-    <h3 className="font-bold text-lg text-center">Please Confirm Your Orders By Contacting With Us:</h3>
+    <p className="py-4 text-xl text-center font-medium">2.Express delivery £4.99 (wothin 48 hours)</p>
+    <p className="py-4 text-xl text-center font-medium">3.Over £25.99 shopping delivery free</p>
     <div className='text-center mt-6'>
+    <h3 className="font-bold text-lg text-center">Please Confirm Your Orders By Contacting With Us:</h3>
+    <br />
+    <h3 className="font-bold text-lg text-center">And for customize order inbox us:</h3>
+    <br />
    <a href="https://wa.me/+4407538820944"><button className="btn btn-accent text-2xl btn-wide"><ImWhatsapp className=''/>Order Now</button></a>
 
     </div>
