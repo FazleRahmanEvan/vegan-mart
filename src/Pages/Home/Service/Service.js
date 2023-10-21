@@ -2,10 +2,10 @@ import React from 'react';
 
 const Service = () => {
     return (
-        <div className='mt-14 mb-16  pb-10 lg:px-9 ml-14 gap-5 lg:ml-28 grid grid-cols-1 lg:grid-cols-3'>
-            <img src="https://i.ibb.co/jw4jQHP/Frame-701.png" alt="" />
-            <img src="https://i.ibb.co/jw4jQHP/Frame-701.png" alt="" />
-            <img src="https://i.ibb.co/jw4jQHP/Frame-701.png" alt="" />
+        <div className='mt-28 mb-20  pb-10 lg:px-9 ml-14 gap-5 lg:ml-28 grid grid-cols-1 lg:grid-cols-3'>
+            <img className='w-80'  src="https://i.ibb.co/Mgt5kGx/Frame-701.png" alt="" />
+            <img className='w-80' src="https://i.ibb.co/0XGrv6n/Frame-702.png" alt="" />
+            <img className='w-80' src="https://i.ibb.co/g4JFYNh/Frame-704.png" alt="" />
         </div>
     );
 };

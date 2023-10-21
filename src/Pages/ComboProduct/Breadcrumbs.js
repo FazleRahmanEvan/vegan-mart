@@ -13,7 +13,7 @@ const Breadcrumbs = () => {
             <Link to="/drinks"><a>Drinks</a></Link>
             </li>
             <li>
-            <Link to="/combo"><a>Combo</a></Link>
+            <Link to="/confectionary"><a>Confectionary</a></Link>
             </li>
           </ul>
         </div>

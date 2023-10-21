@@ -1,13 +1,37 @@
 import React from 'react';
 import { BsStarFill,BsStarHalf } from "react-icons/bs";
 import { Link } from 'react-router-dom';
+import './ConfectionaryCard.css'
 
-const ConfectionaryCard = () => {
+const ConfectionaryCard = ({confectionary}) => {
+  const {_id, image, title,price } =confectionary;
     return (
         <div>
-     <div className="mt-14 pb-10 lg:px-9 ml-10 gap-5 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4">
+    
+    <div className="card w-80 confectionaryCardHeight bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+  <Link to={`/confectionary/${_id}`}>
+    <img className='w-80' src={image} alt="" />
+    </Link>
+  
+  <div className="mt-4 card-body ">
+    <h2 className="card-title ml-8 font-bold">{price}</h2>
+   
+   <div className="flex ml-7 mt-4 ">
+    <BsStarFill className="text-yellow-400"></BsStarFill>
+    <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
+    <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
+    <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
+    <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
+   </div>
+   <p className="mr-16 mt-3"> <span className="text-secondary text-lg font-medium  mt-3">{title}</span> </p>
+  </div>
+</div>
 
-<div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
+
+
+
+
+{/* <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
   <Link to="/productDetails"><img className='w-80' src="https://i.ibb.co/Fg9bcbv/21.png" alt="" /></Link>
   
   <div className="mt-4 card-body ">
@@ -202,10 +226,10 @@ const ConfectionaryCard = () => {
    </div>
    <p className="mr-16 mt-3"> <span className="text-secondary text-xl font-medium  mt-3">Fudco Soya Chunks </span> </p>
   </div>
-</div>
+</div> */}
 
 
-</div>
+
         </div>
     );
 };

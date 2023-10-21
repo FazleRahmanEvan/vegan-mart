@@ -4,13 +4,14 @@ import { Link } from 'react-router-dom';
 import "./DrinksCard.css"
 
 const DrinksCard = ({drink}) => {
-  const { image, title,price } =drink;
+  const {_id, image, title,price } =drink;
+  
     return (
         <div>
              
 
 <div className="card w-80 drinkCardHeight bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
-  <Link to="/productDetails">
+  <Link to={`/drinks/${_id}`}>
     <img className='w-80' src={image} alt="" />
     </Link>
   

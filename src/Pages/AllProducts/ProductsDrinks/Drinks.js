@@ -7,7 +7,7 @@ const Drinks = () => {
     const [drink, setDrink]=useState([]);
 
     useEffect ( () => {
-        fetch('drink.json')
+        fetch('https://vegan-mart-server.vercel.app/drinks')
         .then(res => res.json())
         .then(data => setDrink(data));
     }, [])

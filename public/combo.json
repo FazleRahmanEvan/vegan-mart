@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "image": "https://i.ibb.co/Wy9s4hV/41.png",
+        "title": "Deal 1: Snacks Deal",
+        "price":"£19.99",
+        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        
+    },
+    {
+        "id":2,
+        "image": "https://i.ibb.co/C8zYQPW/42.png",
+        "title": "Deal 2: Healthy Deal",
+        "price":"£19.19",
+        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        
+    },
+    {
+        "id":3,
+        "image": "https://i.ibb.co/1qGTfVF/43.png",
+        "title": "Deal 3: Fiji Deal",
+        "price":"£19.99",
+        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        
+    },
+    {
+        "id":4,
+        "image": "https://i.ibb.co/kJn7g4H/44.png",
+        "title": "Deal 4 : Sweet Deal" ,
+        "price":"£19.99",
+        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor" 
+        
+    }
+]
