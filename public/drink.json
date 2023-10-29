@@ -4,7 +4,14 @@
         "image": "https://i.ibb.co/LzstT5x/1.png",
         "title": "Sanpellegrino Drinks (6 pack x 330ml box)",
         "price":"£6.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Sparkling Lemon Beverage with 16% Lemon Juice from Concentrate with Sugar and Sweetener.Best served chilled." ,
+        "longDescription":"Our iconic Italian Sparkling Drinks have been crafted with quality since 1932. Our winning recipe for a top drinking experience always begins with careful selection of the highest-quality Mediterranean fruits.We have long-standing relationships with many of our partner farms, where the fruits are harvested by hand, and their juices extracted in facilities located in the same region to capture all their delicious goodness.",
+        "Ingredients":"Water, Lemon Juice from Concentrate (16%), Sugar, Carbon Dioxide, Natural Lemon Flavouring, Natural Flavourings, Stabiliser: Pectins, Sweetener: Steviol Glycosides from Stevia Sweetener from natural origin",
+        "NumberOfUses":"Contains 6 servings",
+        "NetContents":"6 x 330ml",
+        "PreparationAndUsage":"Best served chilled",
+        "Additives":"Contains Sweeteners",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -12,7 +19,15 @@
         "image": "https://i.ibb.co/BnpJwjp/2.jpg",
         "title": "Pakeeza Ayran Lassi",
         "price":"£4.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"A small sprinkle of salt helps lift the flavour of our unique Ayran yoghurt drink. Made with an authentic, traditional recipe, shake gently and serve ice cold. The perfect accompaniment to any Middle Eastern meal." ,
+        "longDescription":"Pakeeza Ayran Lassi Natural Yogurt Drink",
+        "Ingredients":"Live Natural Low Fat Yoghurt (MILK), Sea Salt (0.4%)",
+        "NumberOfUses":"",
+        "AllergyInformation":"Highlighted in bold in the ingredient declaration",
+        "NetContents":"1kg ℮",
+        "PreparationAndUsage":"Shake to wake!",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -20,7 +35,14 @@
         "image": "https://i.ibb.co/LNg1Cz0/3.png",
         "title": "Barebells Milkshakes (4 Cans x 330ml) ",
         "price":"£11.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Protein Milkshake is a unique protein drink that adds protein at any time of the day. You will find it in a handy disposable package that allows you to consume a protein drink immediately." ,
+        "longDescription":"The Barebells Milkshake is a practical protein supplier for in between. The milkshake is ready to drink and does not need to be refrigerated, but is best served chilled. Just shake well before opening and drink straight from the bottle. The milkshake delivers 24g protein per bottle and is therefore the ideal protein replenisher for in between. Proteins are important building blocks in the body and support you in your daily challenges in everyday life",
+        "Ingredients":"Milk, water, milk protein, cocoa powder, stabilizers (cellulose, carboxymethylcellulose, carrageenan), sweeteners (acesulfame potassium, sucralose), flavouring, lactase.",
+        "NumberOfUses":"",
+        "AllergyInformation":"Highlighted in bold in the ingredient declaration",
+        "NetContents":"4 Cans x 330ml",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -28,7 +50,17 @@
         "image": "https://i.ibb.co/6nJ7fLv/4.png",
         "title": "FIX8 KOMBUCHA" ,
         "price":"£2.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor" 
+        "shortDescription":"FIX8 is a handcrafted kombucha, with low sugar & low calories, made with all natural ingredients. Color and flavor depend on stock." ,
+        "longDescription":"STRAWBERRY BASIL - A fruity, aromatic wholly quenching kombucha. Blending the flavours of juicy strawberry, with a herbacious hint from basil, to create an irresistibly moreish kombucha for newbies and connoisseurs alike.
+        DELICIOUS & REFRESHING - A lightly sparkling, deliciously tart and refreshing fermented tea. Drink it any time of day as a refreshing tonic or enjoy with your favourite spirit as a cocktail mixer. Some say it's positively obsessive.
+        GOOD FOR THE GUT - A fermented, lightly sparkling, sweetened black tea consumed for health benefits. Rich in probiotics, it helps balance the gut, digestion, strengthens the immune system, boosts energy, supports weight loss, and reduces high blood pressure.
+        VEGAN, GLUTEN FREE, LOW CALORIES - Fix8 is naturally low in sugar, plant based and gluten-free, contains vitamin B for the nervous system and L-theanine for a healthy brain function. We make our flagship flavours by infusing our raw Kombucha with juices, herbs and spices for a bigger, better buzz & flavour that you can feel from the inside out.
+        SUSTAINABILITY - We craft Fix8 in small batches in the traditional way at our London microbrewery for unrivalled flavour. Our cans are infinitely recyclable, and light in weight, making for a more convenient and sustainable choice. With an ambient shelf life of 12 months, enjoy them any time, any place, anywhere.",
+        "Ingredients":"",
+        "NumberOfUses":"",
+        "NetContents":"",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -36,15 +68,30 @@
         "image": "https://i.ibb.co/yfKbQn3/5.png",
         "title": "Innocent Juice",
         "price":"£5.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor"  
-        
+        "shortDescription":"A Blend of Fruit & Vegetable Juices with Guarana Infusion + Added Vitamins. Enjoy as part of a healthy lifestyle & balanced diet. Color and flavor depend on stock." ,
+        "longDescription":"A Blend of Fruit & Vegetable Juices with Guarana Infusion + Added Vitamins
+        Enjoy as part of a healthy lifestyle & balanced diet. PS Eat your greens.
+        10% of our profits go to charity innocentdrinks.com/promise",
+        "Ingredients":"6 Pressed Apples (82%), 12 Pressed White Grapes, 12 Crushed Raspberries (3%), 6 Crushed Sour Cherries (3%), 5 Crushed Goji Berries (2%), A dash of Pressed Passion Fruit, A squeeze of Beetroot, A squeeze of Lime, Vitamins (B1, B2, B3, B6 & E), A dash of Guarana Infusion (0.02%)",
+        "NumberOfUses":"1 serving = 150ml.",
+        "NetContents":"",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
     },
     {
         "id":6,
         "image": "https://i.ibb.co/6s1QGzZ/6.png",
         "title": "Pakeeza Exotic Mango Lassi",
         "price":"£4.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Cool, creamy and bursting with exotic mango, our lassi is a tremendously thick and seriously smooth yogurt drink made with an authentic, traditional recipe" ,
+        "longDescription":"Cool, creamy and bursting with exotic mango, our lassi is a tremendously thick and seriously smooth yogurt drink made with an authentic, traditional recipe",
+        "Ingredients":"Whole Milk Natural Yogurt (Milk), Mango Pulp, Sugar, Colour: Beta Carotenes",
+        "NumberOfUses":"",
+        "NetContents":"",
+        "Allergen information":"Highlighted in bold in the ingredient declaration.",
+        "Additives":"",
+        "Preparation and Usage":"Shake it up and serve ice cold at any time, day or night.",
+        "Directions:":"See packaging for instructions."  
         
     },
     {
@@ -52,7 +99,19 @@
         "image": "https://i.ibb.co/0nKh8Qs/7.png",
         "title": "Dash Sparkling Water (6 pack x 330ml box)",
         "price":"£6.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":" Sparkling Spring Water with Natural Flavours and Raspberry Extract." ,
+        "longDescription":"Water Bubbles Wonky* Fruit
+        *We infuse our delicious sparkling water with real, wonky fruit. That's the bent, crushed, curved, misshapen, knobbly fruit which others say no to. By accepting the misfits we are helping to reduce food waste.
+        3 Simple Ingredients:
+        British spring water - Freshly sprung from our splendid isles and pure in every way.
+        Wonky fruit - We judge on taste not looks.
+        Bubbles - A natural lift without the sugar, fake flavours or calories.",
+        "Ingredients":"Carbonated Spring Water, Raspberry Extract, Natural Flavourings, Citric Acid",
+        "NumberOfUses":"",
+        "Preparation and Usage":"Preparation: Best served Ice Cold.",
+        "NetContents":"6 x 330ml ℮",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -60,7 +119,23 @@
         "image": "https://i.ibb.co/gSD9FNq/8.png",
         "title": "Alpro Oat No Sugars Chilled Drink",
         "price":"£2.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Oat drink with added calcium and vitamins, flash pasteurized. 100% plant-based milk Lactose free milk Suitable for vegans Naturally low in fat & saturated fat No sugars" ,
+        "longDescription":"Oat drink with added calcium and vitamins, flash pasteurized.
+        100% plant-based milk
+        Lactose free milk
+        Suitable for vegans
+        Naturally low in fat & saturated fat
+        No sugars
+        Rich in fibre",
+        "Ingredients":"Oat Base (97.1%) (Water, Oat (8.3%)), Chicory Root Fibre, Sunflower Oil, Calcium (Calcium Carbonate), Sea Salt, Stabiliser (Gellan Gum), Vitamins B2, B12, D2",
+        "Allergen information":"For allergens, including Cereals containing Gluten, see ingredients in bold.",
+        "NumberOfUses":"1L ℮",
+        "Preparation and Usage":"Shake well. Can be used hot or cold, in all cooking applications as an alternative to milk.
+        From grain...
+        Grown, picked, ground, blended, and enjoyed!",
+        "NetContents":"",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     },
     {
@@ -68,8 +143,29 @@
         "image": "https://i.ibb.co/rZXH43S/9.png",
         "title": "Alpro Coconut Barista",
         "price":"£2.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":" Coconut drink with soya and added calcium. 100% plant-based. Dairy free. Lactose Free milk. Gluten free. Perfect for vegans" ,
+        "longDescription":"Coconut drink with soya and added calcium. 100% plant-based. Dairy free. Lactose Free milk. Gluten free. Perfect for vegans. Naturally low in saturated fats. Source of high quality protein. A source of calcium* A source of vitamins B2, B12 & D. UHT for a longer shelf life",
+        "Ingredients":"Water, Coconut Milk [5.7%] [Coconut Cream [2.6%], Water], Hulled Soya Beans [2.9%], Sugar, Fructose, Acidity Regulators [Potassium Phosphates], Calcium [Calcium Carbonate], Sea Salt, Flavouring, Stabiliser [Gellan Gum]",
+        "Allergen information":"May contain traces of Nuts (no Peanuts). For allergens, see ingredients in bold.",
+        "NumberOfUses":"1L ℮",
+        "Preparation and Usage":"Instructions for Baristas
+        Shake well & refrigerate before use. Steam to maximum 65°C. Do not re-steam.
+        Steam to max 65°C
+        Hot, cold & cold brew
+        For Home Coffee Lovers
+        1. Keep me cool I work best chilled.
+        2. Pop me in your milk frother or a pan to heat.
+        3. Keep me below 65°C max
+        4. If using a pan. Foam up with a hand mixer until. I double in size, then tap the pan to pop the air bubbles.
+        5. Your fabulous foam is ready. Time to show off your latte art skills!
+        Can be used hot or cold, in all coffee applications as an alternative to milk.",
+        "NetContents":"",
+        "Additives":"",
+        "Directions:":"See packaging for instructions."
         
     }
     
 ]
+
+
+ 

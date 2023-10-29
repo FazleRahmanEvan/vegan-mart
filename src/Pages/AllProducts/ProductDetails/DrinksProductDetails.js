@@ -16,9 +16,9 @@ const DrinksProductDetails = () => {
   },)
     return (
       
-        <div>
-          {/*  */}
         <div className=" bg-primary">
+          {/*  */}
+        <div >
      <div className=" grid grid-cols-1 lg:grid-cols-2 lg:p-16 sm:p-3 ">
       <div className='flex'>
       {/* <img src="https://i.ibb.co/GTZXPQR/Allergen-1.png" className="w-28 h-28 mt-28 rounded-lg shadow-2xl"  alt="" /> */}
@@ -36,7 +36,7 @@ const DrinksProductDetails = () => {
        <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
       </div>
       <p className="card-title mt-2 font-bold">{drink.price}</p>
-         <p className="text-justify mt-6 lg:mr-20">Take me to the tropics, now! Coffee plus the dreamy, creamy taste of coconut, the fabulous foamability of soya. Just made to turn humdrum into heavenly with every brew.</p>
+         <p className="text-justify mt-6 lg:mr-20">{drink.shortDescription}</p>
          {/* You can open the modal using document.getElementById('ID').showModal() method */}
          <div className='text-start mt-10'>
          <button className="w-28 btn btn-secondary" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
@@ -67,7 +67,36 @@ const DrinksProductDetails = () => {
    
        </div>
      </div>
+ {/* product description */}
+ <div className="card w-10/12 lg:ml-32 bg-base-100 shadow-xl mt-20">
+  <div className="text-start">
+      <h1 className="text-xl font-bold ml-5 mt-5">Product Description</h1>
+      <div className="divider"></div>
+
+      <p className="py-6 p-7">{drink.longDescription}</p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> INGREDIENTS:</span> {drink.Ingredients} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Allergy Information:</span> {drink.AllergyInformation} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Number of uses:</span> {drink.NumberOfUses} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Net Contents:</span> {drink.NetContents} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Preparation and
+Usage:</span> {drink.PreparationAndUsage} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'>Additives:</span> {drink.Additives} </p>
+      <div className="divider"></div>
+
+      <p className=" px-7 mb-5"><span className='font-bold'>Directions:</span> {drink.Directions}</p>
+      
+   
+  </div>
+</div>
+
    </div>
+
    
    <Service></Service>
            </div>
