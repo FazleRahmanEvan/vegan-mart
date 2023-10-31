@@ -4,7 +4,15 @@
         "image": "https://i.ibb.co/Fg9bcbv/21.png",
         "title": "Royal Gulabjam ",
         "price":"£5.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Soft spongy balls flavored with cardamom and pistachio nuts in sweet syrup" ,
+        "longDescription":"Soft spongy balls flavored with cardamom and pistachio nuts in sweet syrup 30% Less Sugar, Premium Quality, Best Eaten Warm, No Artificial Sweeteners, Suitable for vegetarians",
+        "Ingredients":"Water, Sugar (31%), Milk Powder, Durum Wheat Semolina, Clarified Butter [Clarified Butter (Milk), Natural Color: E160a], Fortified Wheat Flour (Wheat Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Roasted Pistachio Nuts, Cardamom Powder",
+        "NumberOfUses":"",
+        "AllergyInformation":"The manufacturing site handles Nuts, Peanuts, and Sesame. For allergens, including Cereals containing Gluten, see ingredients in bold.",
+        "NetContents":"500g",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -12,7 +20,15 @@
         "image": "https://i.ibb.co/k0Yq2vM/22.png",
         "title": "Pran Chinigura Aromatic Rice",
         "price":"£5.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed." ,
+        "longDescription":"PRAN Chinigura Rice is the first packed aromatic rice in Bangladesh. It always carries 100% natural aroma which relates to the tradition of Bangladesh. Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "Ingredients":"",
+        "NumberOfUses":"",
+        "AllergyInformation":"",
+        "NetContents":"2kg",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -20,7 +36,15 @@
         "image": "https://i.ibb.co/mDXdvSr/23.png",
         "title": "Fudco Himalayan Pink Salt",
         "price":"£2.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Our Virgin Pink Himalayan Salts originates from the fossil marine deposits, formed over 250 million years ago, where it has been preserved and kept pure." ,
+        "longDescription":"Our Virgin Pink Himalayan Salts originates from the fossil marine deposits, formed over 250 million years ago, where it has been preserved and kept pure. Shielded from impurities and pollutants, this rare and amazing salt is hand cultivated from the ancient sea salt deposits, in the Pristine Himalayan Mountains. Use in culinary dishes and as a replacement to table salt.",
+        "Ingredients":"up to 98 percent sodium chloride",
+        "NumberOfUses":"",
+        "AllergyInformation":"",
+        "NetContents":"500g e",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -28,7 +52,15 @@
         "image": "https://i.ibb.co/ZXw929Y/24.png",
         "title": "Eat Real Crisps " ,
         "price":"£3.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor" 
+        "shortDescription":"We know food, and we know it well. With a healthy appetite and a taste for adventure, we unearth alternative ingredients. Color and flavor depend on stock." ,
+        "longDescription":"We know food, and we know it well. With a healthy appetite and a taste for adventure, we unearth alternative ingredients. Lentils, quinoa, chickpeas and veg, drenched in unexpected flavor combinations. We pore over every grain, every pinch, every chip, to bring you snacks you can't help but relish.Eat Real. Packaged in a protective atmosphere. Gluten Free. Suitable for Vegans",
+        "Ingredients":"Lentil Flour (43%), Potato Starch, Rapeseed Oil, Maize Flour, Salt",
+        "NumberOfUses":"This pack contains approximately 5 servings",
+        "AllergyInformation":"",
+        "NetContents":"113g ℮",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -36,7 +68,15 @@
         "image": "https://i.ibb.co/t4bVSR3/25.png",
         "title": "Pran Puffed Rice",
         "price":"£2.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor"  
+        "shortDescription":"PRAN Puffed rice is light and easily digestible - Puff rice contain dietary fiber to support the digestive system." ,
+        "longDescription":"PRAN Puffed rice is light and easily digestible - Puff rice contain dietary fiber to support the digestive system. Therefore, it helps to optimize the bowel movement and help to improve the body metabolism. PRAN Puffed Rice is produce from BR-16 Rice.",
+        "Ingredients":"",
+        "NumberOfUses":"",
+        "AllergyInformation":"",
+        "NetContents":"250g",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."  
         
     },
     {
@@ -44,7 +84,15 @@
         "image": "https://i.ibb.co/Np6Ps5h/26.png",
         "title": "Choco Leibniz Milk Chocolate",
         "price":"£2.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"A lavish layer of creamy European Milk Chocolate tops our original Leibniz Butter Biscuit." ,
+        "longDescription":"A lavish layer of creamy European Milk Chocolate tops our original Leibniz Butter Biscuit; The rich, buttery cookie flavor combined with sweet, decadent chocolate is sure to win you over",
+        "Ingredients":"Contains wheat, milk, eggs and coconut.",
+        "NumberOfUses":"",
+        "AllergyInformation":"May contain almonds and hazelnuts.",
+        "NetContents":"",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions." 
         
     },
     {
@@ -52,7 +100,15 @@
         "image": "https://i.ibb.co/1m21LL8/27.png",
         "title": "Royal Rassomalai",
         "price":"£5.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Soft white round patties immersed in creamy, milky syrup flavoured with cardamom, pistachios and saffron." ,
+        "longDescription":"Soft white round patties immersed in creamy, milky syrup flavoured with cardamom, pistachios and saffron. Recycling Info: Card - Sleeve - widely recycled, Plastic - Tray - check local recycling Plastic, - Film - not currently recycled",
+        "Ingredients":"Milk (75%), Double Cream (Milk), Water, Sugar, Skimmed Milk Powder (5%), Pistachio Nuts, Fortified Wheat Flour (Wheat Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Saffron, Cardamom Powder, Preservative: Nisaplin",
+        "NumberOfUses":"",
+        "AllergyInformation":"The manufacturing site handles Nuts, Peanuts, and Sesame. For allergens, including Cereals containing Gluten, see ingredients in bold.",
+        "NetContents":"500g",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -60,7 +116,15 @@
         "image": "https://i.ibb.co/ZztvM4G/28.png",
         "title": "N'eat Natural Energy Fruit Bars",
         "price":"£1.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"N'EAT NATURAL ENERGY deliciously soft and chewy fruit bars are made using only natural ingredients, and they are packed with good ingredients." ,
+        "longDescription":"N'EAT NATURAL ENERGY deliciously soft and chewy fruit bars are made using only natural ingredients, and they are packed with good ingredients. They are Vegan Society approved, and they contain no added sugar or preservatives and are free from wheat, dairy products and palm oil.",
+        "Ingredients":"Cacao, Coconuts & Chia Seeds; Apricots, Chia Seeds & Pumpkin Seeds; Bananas, Chia Seeds & Multi Seeds; Blueberries & Chia Seeds; Red Berries & Quinoa",
+        "NumberOfUses":"",
+        "AllergyInformation":"The manufacturing site handles Nuts, Peanuts, and Sesame. For allergens, including Cereals containing Gluten, see ingredients in bold.",
+        "NetContents":"",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions." 
         
     },
     {
@@ -68,7 +132,15 @@
         "image": "https://i.ibb.co/84YRMnQ/29.png",
         "title": "Metcalfe's - Chocolate Rice Cakes (8 piece x 34 g)",
         "price":"£14.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Metcalfes Milk Chocolate Ricecakes mix the perfect balance of wholegrain and white rice for a crisp crunch." ,
+        "longDescription":"Snackfully has chosen Metcalfes as they work in partnership with Spread A Smile to bring a smile to children and teenagers in hospitals.At less than 81 calories per Ricecake, whats not to love! Metcalfes Ricecakes are suitable for vegetarians, gluten free, and contain no artificial flavours.",
+        "Ingredients":"Milk Chocolate (60%) (Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Emulsifier: Soya Lecithin, Natural Vanilla Flavoring), Rice Cake (40%) (Wholegrain Brown Rice, Rice). (Minimum Cocoa Solids 39%).",
+        "NumberOfUses":"",
+        "AllergyInformation":"The manufacturing site handles Nuts, Peanuts, and Sesame. For allergens, including Cereals containing Gluten, see ingredients in bold.",
+        "NetContents":"8 piece x 34 g",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -76,7 +148,15 @@
         "image": "https://i.ibb.co/ftGHwpn/30.png",
         "title": "Cofresh Sev Mamra With Peanuts",
         "price":"£2.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Mixture of Puffed Rice, Savoury Noodles and Peanuts" ,
+        "longDescription":"The Cofresh family brings you their Sev Mamra & Peanuts which is a delicious savory snack made from the finest quality ingredients. Proud to be No.1 Indian snack brand. Suitable for vegetarian",
+        "Ingredients":"Puffed Rice (45%), Vegetable Oil (Rapeseed), Gram Flour, Peanuts (22%), Maize Flour, Potato Starch, Spices, Salt",
+        "NumberOfUses":"",
+        "AllergyInformation":"May contain traces of Almonds, Cashews, Sesame Seeds and Wheat Flour For allergens, see ingredients in bold",
+        "NetContents":"325g ℮",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions.g"
         
     },
     {
@@ -84,7 +164,15 @@
         "image": "https://i.ibb.co/fnvSQMD/31.png",
         "title": "TREK Energy Bar (12 piece x 50 g)",
         "price":"£14.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Peanut Butter High Protein Bar, Covered in A Natural Chocolate Alternative" ,
+        "longDescription":"A delicious source of plant based protein enrobed in a naturally vegan chocolate alternative. At TREK we're proud of our 'better for you' snack range. We believe that nature has all the best ingredients a person could ask for. No need for manufactured or modified foods because we have sourced the finest, healthy carbs and plant based protein that is sure to keep your energy levels high throughout the day. Try our Power bars today!",
+        "Ingredients":"Soya Protein Isolate (25%), Chocolate Alternative (Dates, Cocoa Butter, Cocoa Mass, Tigernuts, Rice Flour, Emulsifier: Sunflower Lecithin, Natural Flavouring) (18%), Caramel (Glucose Syrup, Cane Sugar, Water, Coconut Oil, Stabiliser: Glycerol, Coconut Milk Powder, Apple Fibres, Salt, Emulsifier: Sunflower Lecithin) (13%), Peanut Butter (12%), Chicory Fibre, Dates, Date Syrup, Peanuts, Peanut Flour, Concentrated Grape Juice, Rice Starch, Natural Flavouring, Sea Salt",
+        "NumberOfUses":"",
+        "AllergyInformation":"May contain traces of other Nuts and Milk.",
+        "NetContents":"12 piece x 50 g",
+        "PreparationAndUsage":"",
+        "Additives":"Free From Artificial Sweeteners. Free From Genetically Modified Ingredients",
+        "Directions":"See packaging for instructions."
         
     },
     {
@@ -92,7 +180,15 @@
         "image": "https://i.ibb.co/qRw23BK/32.png",
         "title": "Fudco Soya Chunks",
         "price":"£2.49",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor "  
+        "shortDescription":"Premium quality Country of Origin: India Suitable for vegetarians. Made From Soya Flour. " ,
+        "longDescription":"Premium quality. Suitable for vegetarians",
+        "Ingredients":"",
+        "NumberOfUses":"",
+        "AllergyInformation":"This product is packed in factory which also processes: Peanuts, Nuts, Sesame Seeds, Cereals, Milk, Sulphites & Sulphur Dioxide, Mustard, Celery, Soya, Wheat",
+        "NetContents":"150 g ",
+        "PreparationAndUsage":"",
+        "Additives":"",
+        "Directions":"See packaging for instructions."
         
     }
     

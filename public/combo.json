@@ -1,34 +1,67 @@
 [
     {
-        "id":1,
+        
         "image": "https://i.ibb.co/Wy9s4hV/41.png",
         "title": "Deal 1: Snacks Deal",
         "price":"£19.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Get all the snacks in one deal" ,
+        "line1":"1 x Eat real crips", 
+        "line2":"3 x Metcafels rice cake ", 
+        "line3":"1 x Leibniz choco box", 
+        "line4":"3 x Sanpellogilo", 
+        "line5":"2 x Montezuma’s Dark chocolate", 
+        "line6":""  ,
+        "Directions":"See packaging for instructions."
         
     },
     {
-        "id":2,
+        
         "image": "https://i.ibb.co/C8zYQPW/42.png",
         "title": "Deal 2: Healthy Deal",
         "price":"£19.19",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Get all the healthy food in one deal",
+        "line1":" 2 x Milkshake ", 
+        "line2":"1 x Milk oat/coconut ", 
+        "line3":"1 x Innocent juice", 
+        "line4":"3 x Trekbar", 
+        "line5":"2 x Crips eat real", 
+        "line6":""  ,
+        "Directions":"See packaging for instructions."
         
     },
     {
-        "id":3,
+        
         "image": "https://i.ibb.co/1qGTfVF/43.png",
         "title": "Deal 3: Fiji Deal",
         "price":"£19.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor " 
+        "shortDescription":"Get all the fiji food in one deal" ,
+        "line1":" 3 x Dash water", 
+        "line2":"3 x Sanpellogilo", 
+        "line3":"3 x Kambucha drink", 
+        "line4":"3 x Montezuma’s chocolates ", 
+        "line5":"", 
+        "line6":""  ,
+        "Directions":"See packaging for instructions."
         
     },
     {
-        "id":4,
+        
         "image": "https://i.ibb.co/kJn7g4H/44.png",
         "title": "Deal 4 : Sweet Deal" ,
         "price":"£19.99",
-        "paragraph":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolores ex veritatis. Hic obcaecati doloremque facilis placeat dolor" 
-        
+        "shortDescription":"Get all the sweets in one deal" ,
+        "line1":"1 x Mango lassi", 
+        "line2":"1 x Ayran lassi", 
+        "line3":"1 x Royal golab jamun", 
+        "line4":"1 x Royal rasmalai.", 
+        "line5":"", 
+        "line6":"" ,
+        "Directions":"See packaging for instructions."
+    
     }
 ]
+
+
+
+
+

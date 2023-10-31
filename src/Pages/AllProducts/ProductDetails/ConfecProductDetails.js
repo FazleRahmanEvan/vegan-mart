@@ -29,7 +29,7 @@ const ConfecProductDetails = () => {
        <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
       </div>
       <p className="card-title mt-2 font-bold">{confectionary.price}</p>
-         <p className="text-justify mt-6 lg:mr-20">Take me to the tropics, now! Coffee plus the dreamy, creamy taste of coconut, the fabulous foamability of soya. Just made to turn humdrum into heavenly with every brew.</p>
+         <p className="text-justify mt-6 lg:mr-20">{confectionary.shortDescription}</p>
          {/* You can open the modal using document.getElementById('ID').showModal() method */}
          <div className='text-start mt-10'>
          <button className="w-28 btn btn-secondary" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
@@ -60,6 +60,33 @@ const ConfecProductDetails = () => {
    
        </div>
      </div>
+      {/* product description */}
+ <div className="card w-10/12 lg:ml-32 bg-base-100 shadow-xl mt-20">
+  <div className="text-start">
+      <h1 className="text-xl font-bold ml-5 mt-5">Product Description</h1>
+      <div className="divider"></div>
+
+      <p className="py-6 p-7">{confectionary.longDescription}</p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> INGREDIENTS:</span> {confectionary.Ingredients} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Allergy Information:</span> {confectionary.AllergyInformation} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Number of uses:</span> {confectionary.NumberOfUses} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Net Contents:</span> {confectionary.NetContents} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'> Preparation and
+Usage:</span> {confectionary.PreparationAndUsage} </p>
+      <div className="divider"></div>
+      <p className=" px-7"><span className='font-bold'>Additives:</span> {confectionary.Additives} </p>
+      <div className="divider"></div>
+
+      <p className=" px-7 mb-5"><span className='font-bold'>Directions:</span> {confectionary.Directions}</p>
+      
+   
+  </div>
+</div>
    </div>
    
    <Service></Service>
