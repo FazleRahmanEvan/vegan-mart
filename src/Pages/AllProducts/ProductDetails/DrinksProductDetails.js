@@ -19,27 +19,27 @@ const DrinksProductDetails = () => {
         <div className=" bg-primary">
           {/*  */}
         <div >
-     <div className=" grid grid-cols-1 lg:grid-cols-2 lg:p-16 sm:p-3 ">
+     <div className=" grid grid-cols-1 lg:grid-cols-2 mt-8 lg:p-16 sm:p-3 ">
       <div className='flex'>
       {/* <img src="https://i.ibb.co/GTZXPQR/Allergen-1.png" className="w-28 h-28 mt-28 rounded-lg shadow-2xl"  alt="" /> */}
-      <img src={drink.image} className="w-2/3 lg:ml-10 rounded-lg shadow-2xl" alt=''/>
+      <img src={drink.image} className="w-2/3 ml-10 mt-5 rounded-lg shadow-2xl" alt=''/>
       </div>
      
       
        <div>
-         <h1 className="text-2xl font-bold text-start ">{drink.title}</h1>
-         <div className="flex  mt-6 ">
+         <h1 className="text-2xl font-bold text-start ml-10 mt-4">{drink.title}</h1>
+         <div className="flex  mt-6 ml-10 ">
        <BsStarFill className="text-yellow-400"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
       </div>
-      <p className="card-title mt-2 font-bold">{drink.price}</p>
-         <p className="text-justify mt-6 lg:mr-20">{drink.shortDescription}</p>
+      <p className="card-title mt-2 font-bold ml-10">{drink.price}</p>
+         <p className="text-justify mt-6 mr-20 ml-10">{drink.shortDescription}</p>
          {/* You can open the modal using document.getElementById('ID').showModal() method */}
          <div className='text-start mt-10'>
-         <button className="w-28 btn btn-secondary" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
+         <button className="w-28 btn btn-secondary ml-10" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
    <dialog id="my_modal_3" className="modal">
      <div className="modal-box">
        <form method="dialog">
@@ -68,7 +68,7 @@ const DrinksProductDetails = () => {
        </div>
      </div>
  {/* product description */}
- <div className="card w-10/12 lg:ml-32 bg-base-100 shadow-xl mt-20">
+ <div className="card lg:w-10/12 lg:ml-32 bg-base-100 shadow-xl mt-20">
   <div className="text-start">
       <h1 className="text-xl font-bold ml-5 mt-5">Product Description</h1>
       <div className="divider"></div>

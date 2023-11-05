@@ -14,7 +14,7 @@ const ComboCard = ({combo}) => {
   <div className="mt-4 card-body ">
     <h2 className="card-title ml-8 font-bold">{price}</h2>
    
-   <div className="flex ml-7 mt-4 ">
+   <div className="flex ml-7  mt-4 ">
     <BsStarFill className="text-yellow-400"></BsStarFill>
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
     <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>

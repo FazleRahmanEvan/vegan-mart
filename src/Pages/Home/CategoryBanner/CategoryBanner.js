@@ -15,7 +15,7 @@ import './CategoryBanner.css'
 
 const CategoryBanner = () => {
     return (
-        <div className='mt-6 bg-primary'>
+        <div className='margintop bg-primary'>
 
           
 

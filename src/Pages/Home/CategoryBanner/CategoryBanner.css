@@ -18,5 +18,19 @@
     height: 500px;
    
   }
+  .margintop {
+    margin-top: 20px;
+  }
+  @media (max-width: 600px) {
+    .swiper-slide img {
+   
+      width: 900%;
+      height: 250px;
+     
+    }
+    .margintop {
+      margin-top: 105px;
+    }
+  }
 
  

@@ -7,7 +7,7 @@ const BestSellingProduct = () => {
     <div className=" bg-primary">
       <div className="flex justify-between ">
         <div>
-          <h2 className="text-2xl font-bold lg:ml-24 mt-16">Best Selling Product</h2>
+          <h2 className="text-2xl font-bold lg:ml-24  mt-16">Best Selling Product</h2>
         </div>
         <div>
           <Link to="/"></Link>
@@ -15,7 +15,7 @@ const BestSellingProduct = () => {
         </div>
       </div>
 
-      <div className="mt-14 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4 pb-10 lg:px-9 ml-10">
+      <div className="mt-14 grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 gap-4 pb-10 lg:px-9 ml-7">
      
         <div className="card w-80 bg-base-100 shadow-xl sm:mb-5 lg:mb-20">
           <Link to="/confectionary"><img className="w-80" src="https://i.ibb.co/D1H92vz/Cart.png" alt="" /></Link>

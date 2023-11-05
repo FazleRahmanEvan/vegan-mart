@@ -16,22 +16,22 @@ const ComboDetails = () => {
     return (
         <div className=" bg-primary">
         <div >
-     <div className=" grid grid-cols-1 grid-cols-2 lg:p-16 sm:p-3 lg:ml-20 lg:justify-evenly">
-       <img src={combo.image} className="w-2/3 lg:ml-20 rounded-lg shadow-2xl" alt=''/>
+     <div className=" grid grid-cols-1 lg:grid-cols-2 lg:p-16 sm:p-3 lg:ml-20 mt-8 lg:justify-evenly">
+       <img src={combo.image} className="w-2/3 ml-16 rounded-lg shadow-2xl" alt=''/>
        <div className='lg:ml-20 lg:mt-10'>
-         <h1 className="text-2xl font-bold text-start ">{combo.title}</h1>
-         <div className="flex  mt-6 ">
+         <h1 className="text-2xl font-bold text-start mt-5 ml-16 ">{combo.title}</h1>
+         <div className="flex  mt-6 ml-16">
        <BsStarFill className="text-yellow-400"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarFill className="text-yellow-400 ml-3"></BsStarFill>
        <BsStarHalf className="text-yellow-400 ml-3"></BsStarHalf>
       </div>
-      <p className="card-title mt-2 font-bold">{combo.price}</p>
-         <p className="text-justify mt-6 lg:mr-20">{combo.shortDescription}</p>
+      <p className="card-title mt-2 font-bold ml-16">{combo.price}</p>
+         <p className="text-justify mt-6 lg:mr-20 ml-16">{combo.shortDescription}</p>
          {/* You can open the modal using document.getElementById('ID').showModal() method */}
          <div className='text-start mt-10'>
-         <button className="w-28 btn btn-secondary" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
+         <button className="w-28 btn btn-secondary ml-16" onClick={()=>document.getElementById('my_modal_3').showModal()}>Buy</button>
    <dialog id="my_modal_3" className="modal">
      <div className="modal-box">
        <form method="dialog">
@@ -60,7 +60,7 @@ const ComboDetails = () => {
        </div>
      </div>
       {/* product description */}
- <div className="card w-10/12 lg:ml-32 bg-base-100 shadow-xl mt-20">
+ <div className="card lg:w-10/12 lg:ml-32  bg-base-100 shadow-xl mt-20">
   <div className="text-start">
       <h1 className="text-xl font-bold ml-5 mt-5">Product Description</h1>
       <div className="divider"></div>

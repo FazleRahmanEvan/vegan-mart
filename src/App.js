@@ -10,6 +10,8 @@ import Combo from './Pages/ComboProduct/Combo';
 import DrinksProductDetails from './Pages/AllProducts/ProductDetails/DrinksProductDetails';
 import ConfecProductDetails from './Pages/AllProducts/ProductDetails/ConfecProductDetails';
 import ComboDetails from './Pages/AllProducts/ProductDetails/ComboDetails';
+import About from './Pages/About/About';
+import Contact from './Pages/Contact/Contact';
 
 
 
@@ -23,6 +25,8 @@ function App() {
      <Route path="/drinks" element ={<Drinks></Drinks>}></Route>
      <Route path="/confectionary" element ={<Confectionary></Confectionary>}></Route>
      <Route path="/combo" element ={<Combo></Combo>}></Route>
+     <Route path="/about" element ={<About></About>}></Route>
+     <Route path="/contact" element ={<Contact></Contact>}></Route>
      <Route path="/drinks/:_id" element ={<DrinksProductDetails></DrinksProductDetails>}></Route>
      <Route path="/confectionary/:_id" element ={<ConfecProductDetails></ConfecProductDetails>}></Route>
      <Route path="/combo/:_id" element ={<ComboDetails></ComboDetails>}></Route>

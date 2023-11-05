@@ -9,7 +9,7 @@ const Footer = () => {
         <footer class="footer bg-secondary text-white justify-evenly">
     
         <div className='mt-12 mb-24'>
-            <img className='w-44 h-44' src="https://i.ibb.co/dDHV2Nc/Group.png" alt=''/>
+            <img className='w-56 h-44' src="https://i.ibb.co/dDHV2Nc/Group.png" alt=''/>
             
        
             <div className="footer-start grid grid-flow-col gap-4 mt-2">
@@ -26,7 +26,7 @@ const Footer = () => {
          
         
         </div> 
-        <div className='mt-36 mb-20'>
+        {/* <div className='lg:mt-36 mb-20'>
         <header className="text-xl font-bold text-white">Account</header> 
         <Link to="/"><a class="link link-hover mt-6">My Account</a></Link>
         
@@ -35,14 +35,14 @@ const Footer = () => {
         <Link to="/ourWork"> <a class="link link-hover mt-4">Shop</a> </Link>
        
      
-        </div> 
-        <div className='mt-36 mb-20'>
+        </div>  */}
+        <div className='lg:mt-36 mb-20'>
           <span class="text-xl font-bold text-white">Quick Link</span> 
-          <Link to="/"><a class="link link-hover mt-6">Privacy</a></Link>
+          <Link to="/"><a class="link link-hover mt-6">Home</a></Link>
         
-        <Link to="/blogs"> <a class="link link-hover mt-6">Terms Of Use</a></Link>
-        <Link to="/about"><a class="link link-hover mt-4">FAQ</a> </Link>
-        <Link to="/ourWork"> <a class="link link-hover mt-4">Contact</a> </Link>
+        <Link to="/combo"> <a class="link link-hover mt-6">Combo Packages</a></Link>
+        <Link to="/contact"><a class="link link-hover mt-4">Contact</a> </Link>
+        <Link to="/about"> <a class="link link-hover mt-4">About Us</a> </Link>
           {/* <div className="grid grid-flow-col gap-2 mt-1 mb-2 ">
           <a><FaPhoneAlt></FaPhoneAlt></a>
           <p>+8801755-460159</p>
